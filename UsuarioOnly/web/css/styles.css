@@ -1,0 +1,45 @@
+.fondo {
+    background-image:url(ur_body_back.jpg);
+}
+
+.main{
+    margin-left: 1em;
+    padding-top:1em;
+
+}
+
+.tg{
+    padding:1em 1em;
+}
+
+.post .thumb {
+    width:40%;
+    padding-right: 10px;
+}
+
+.post .cll {
+    width:100%;
+    padding-right: 10px;
+}
+
+.post .cll img{
+    width:10%;
+    padding-right: 10px;
+    padding-top:  100px;
+}
+
+.post .thumb img{
+    width: 100%;
+    padding-bottom: 20px;
+}
+
+
+.post{
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #8BD0E4;
+}
+
+
+
+

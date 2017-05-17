@@ -1,0 +1,5 @@
+Carlos;Torres;elboya;bor@gmail.com;123;2017-05-28;Artista;0
+Sergio;Arboleda;Checho;bum@gmail.com;990;2017-05-19;Usuario;0
+Mateo;Zuluaga;YESNOCANCEL;c@gmail.com;1234;2017-05-20;Usuario;0
+Carlos;Carrasquilla;jaquematexd;caca@gmail.com;80;2017-05-20;Usuario;0
+Sergio;Arboleda;nonono;g@g;1;2017-05-21;Artista;0
