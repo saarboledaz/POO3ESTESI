@@ -22,41 +22,45 @@
                         <c:choose>
                             <c:when test="${!empty usuarioActual}">
                                 <li><a href="./menuUsuario.jsp">Inicio</a></li>
-                            </c:when>
-                            <c:otherwise>
+                                </c:when>
+                                <c:otherwise>
                                 <li><a href="./index.jsp">Inicio</a></li>
-                            </c:otherwise>
-                        </c:choose>
-                        </ul>
-                        <ul class="nav navbar-nav navbar-right">
-                            <c:choose>
+                                </c:otherwise>
+                            </c:choose>
+                    </ul>
+                    <ul class="nav navbar-nav navbar-right">
+                        <c:choose>
                             <c:when test="${!empty usuarioActual}">
-                                <li><a href="./menuUsuario.jsp">Salir</a></li>
+                                <li>
+                                    <form method="POST" action="./cerrarSesion">
+
+                                    </form>
+                                </li>
                             </c:when>
                             <c:otherwise>
                                 <li><a href="./inicioSesion.jsp">Entrar</a></li>
-                            <li><a href="./registerUsuario.jsp">Registrarse</a></li>
-                            </c:otherwise>
-                        </c:choose>
-                           
+                                <li><a href="./registerUsuario.jsp">Registrarse</a></li>
+                                </c:otherwise>
+                            </c:choose>
 
-                        </ul>
 
-                        <!--
-                                                                <form action="" class="navbar-form navbar-left" role="search">
-                                                                        <div class="form-group">
-                                                                                <input type="text" class="form-control" placeholder="buscar">
-                                                                        </div>
-                                                                        <button type="submit" class="btn btn-primary">
-                                                                                <span class="glyphicon glyphicon-search"></span>
-                                                                        </button>
-                                                                </form>
-                        -->
-                    </div>
+                    </ul>
+
+                    <!--
+                                                            <form action="" class="navbar-form navbar-left" role="search">
+                                                                    <div class="form-group">
+                                                                            <input type="text" class="form-control" placeholder="buscar">
+                                                                    </div>
+                                                                    <button type="submit" class="btn btn-primary">
+                                                                            <span class="glyphicon glyphicon-search"></span>
+                                                                    </button>
+                                                            </form>
+                    -->
                 </div>
-            </nav>
-        </header>
+            </div>
+        </nav>
+    </header>
 
-    </head>
+</head>
 </html>    
 
