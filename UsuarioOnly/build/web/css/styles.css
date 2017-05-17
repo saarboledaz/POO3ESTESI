@@ -1,17 +1,5 @@
-.footer{
-    background-color: #761c19;
-    position:static;
-    width:100%;
-    padding-top: 2em;
-}
-
-#highmsg{
-    padding: 1em 2em;
-    color:#dbdbdb;
-}
-
-.form{
-
+.fondo {
+    background-image:url(ur_body_back.jpg);
 }
 
 .main{
@@ -29,15 +17,29 @@
     padding-right: 10px;
 }
 
+.post .cll {
+    width:100%;
+    padding-right: 10px;
+}
+
+.post .cll img{
+    width:10%;
+    padding-right: 10px;
+    padding-top:  100px;
+}
+
 .post .thumb img{
     width: 100%;
-    
+    padding-bottom: 20px;
 }
+
 
 .post{
     padding-bottom: 20px;
     margin-bottom: 20px;
-    border-bottom: 1px solid #999;
+    border-bottom: 1px solid #8BD0E4;
 }
+
+
 
 
