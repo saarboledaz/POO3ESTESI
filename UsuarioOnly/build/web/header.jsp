@@ -29,8 +29,16 @@
                         </c:choose>
                         </ul>
                         <ul class="nav navbar-nav navbar-right">
-                            <li><a href="./inicioSesion.jsp"  >Entrar</a></li>
+                            <c:choose>
+                            <c:when test="${!empty usuarioActual}">
+                                <li><a href="./menuUsuario.jsp">Salir</a></li>
+                            </c:when>
+                            <c:otherwise>
+                                <li><a href="./inicioSesion.jsp">Entrar</a></li>
                             <li><a href="./registerUsuario.jsp">Registrarse</a></li>
+                            </c:otherwise>
+                        </c:choose>
+                           
 
                         </ul>
 
