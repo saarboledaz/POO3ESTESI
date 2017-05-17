@@ -84,6 +84,7 @@ public class Artista extends Usuario {
             obra.setPuntuacion();
             s += obra.getPuntuacion();
         }
+        reputacion = s;
     }
 
     public Obra obtenerMejorObra() {
