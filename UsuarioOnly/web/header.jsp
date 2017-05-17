@@ -32,7 +32,7 @@
                         <c:choose>
                             <c:when test="${!empty usuarioActual}">
                                 <li>
-                                    <form method="POST" action="./cerrarSesion">
+                                    <form method="POST" action="./cerrarSession">
                                         <button type="submit" value="Cerrar sesion">Cerrar sesion</button>
 
                                     </form>
