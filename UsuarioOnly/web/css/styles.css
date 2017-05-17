@@ -23,14 +23,11 @@
 }
 
 .post .cll img{
-    width:10%;
-    padding-right: 10px;
-    padding-top:  100px;
+    width:100%;
 }
 
 .post .thumb img{
     width: 100%;
-    padding-bottom: 20px;
 }
 
 
