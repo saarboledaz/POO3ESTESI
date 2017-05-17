@@ -56,7 +56,7 @@
                     <input class="star star-1" id="star-1" type="radio" name="s1"/>
                     
                     <label class="star star-1" for="star-1"></label>
-                    <textarea rows="4" cols="50" name="descripcion">Comenta aca</textarea>
+                    <textarea rows="4" cols="50" name="descripcion" placeholder="Comenta aca"></textarea>
                     <button type="submit">Comentar</button>
                     
                     
