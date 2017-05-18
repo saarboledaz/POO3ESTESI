@@ -12,6 +12,7 @@ ur_body_back.jpg
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        
         <title>JSP Page</title>
     </head>
     <body style=" color: #000; background-image:url(img3_1.jpg);" >
