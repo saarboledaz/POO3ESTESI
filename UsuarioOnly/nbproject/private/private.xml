@@ -3,30 +3,16 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Sergio/Documents/NetBeansProjects/UsuarioOnly/src/java/servlets/dataLoader.java</file>
-            <file>file:/C:/Users/Sergio/Documents/NetBeansProjects/UsuarioOnly/src/java/servlets/agregarComentario.java</file>
-            <file>file:/C:/Users/Sergio/Documents/NetBeansProjects/UsuarioOnly/web/menuUsuario.jsp</file>
-            <file>file:/C:/Users/Sergio/Documents/NetBeansProjects/UsuarioOnly/web/buscarObra.jsp</file>
-            <file>file:/C:/Users/Sergio/Documents/NetBeansProjects/UsuarioOnly/src/java/servlets/buscarUsuario.java</file>
-            <file>file:/C:/Users/Sergio/Documents/NetBeansProjects/UsuarioOnly/web/mostrarUsuarios.jsp</file>
-            <file>file:/C:/Users/Sergio/Documents/NetBeansProjects/UsuarioOnly/web/rankings.jsp</file>
-            <file>file:/C:/Users/Sergio/Documents/NetBeansProjects/UsuarioOnly/src/java/servlets/menuObra.java</file>
-            <file>file:/C:/Users/Sergio/Documents/NetBeansProjects/UsuarioOnly/web/infoObra.jsp</file>
-            <file>file:/C:/Users/Sergio/Documents/NetBeansProjects/UsuarioOnly/web/css/bootstrap-theme.css</file>
-            <file>file:/C:/Users/Sergio/Documents/NetBeansProjects/UsuarioOnly/src/java/servlets/rankingPrecio.java</file>
-            <file>file:/C:/Users/Sergio/Documents/NetBeansProjects/UsuarioOnly/src/java/servlets/buscarArticulo.java</file>
-            <file>file:/C:/Users/Sergio/Documents/NetBeansProjects/UsuarioOnly/web/inicioSesion.jsp</file>
-            <file>file:/C:/Users/Sergio/Documents/NetBeansProjects/UsuarioOnly/web/footer.jsp</file>
-            <file>file:/C:/Users/Sergio/Documents/NetBeansProjects/UsuarioOnly/web/header.jsp</file>
-            <file>file:/C:/Users/Sergio/Documents/NetBeansProjects/UsuarioOnly/src/java/models/Artista.java</file>
-            <file>file:/C:/Users/Sergio/Documents/NetBeansProjects/UsuarioOnly/src/java/servlets/rankingReputacion.java</file>
-            <file>file:/C:/Users/Sergio/Documents/NetBeansProjects/UsuarioOnly/src/java/servlets/infoObra.java</file>
-            <file>file:/C:/Users/Sergio/Documents/NetBeansProjects/UsuarioOnly/src/java/servlets/buscarNombre.java</file>
-            <file>file:/C:/Users/Sergio/Documents/NetBeansProjects/UsuarioOnly/web/css/bootstrap-theme.min.css</file>
-            <file>file:/C:/Users/Sergio/Documents/NetBeansProjects/UsuarioOnly/web/menuObra.jsp</file>
-            <file>file:/C:/Users/Sergio/Documents/NetBeansProjects/UsuarioOnly/src/java/servlets/rankingPuntuacion.java</file>
-            <file>file:/C:/Users/Sergio/Documents/NetBeansProjects/UsuarioOnly/src/java/models/Obra.java</file>
-            <file>file:/C:/Users/Sergio/Documents/NetBeansProjects/UsuarioOnly/web/buscarUsuario.jsp</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/POO3ESTESI/UsuarioOnly/web/header.jsp</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/POO3ESTESI/UsuarioOnly/web/buscarUsuario.jsp</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/POO3ESTESI/UsuarioOnly/src/java/servlets/validacionIngreso.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/POO3ESTESI/UsuarioOnly/web/infoObra.jsp</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/POO3ESTESI/UsuarioOnly/src/java/servlets/infoObra.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/POO3ESTESI/UsuarioOnly/web/css/bootstrap-theme.css</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/POO3ESTESI/UsuarioOnly/web/css/styles.css</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/POO3ESTESI/UsuarioOnly/src/java/servlets/dataLoader.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/POO3ESTESI/UsuarioOnly/web/img3_1.jpg</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/POO3ESTESI/UsuarioOnly/web/menuUsuario.jsp</file>
         </group>
     </open-files>
 </project-private>

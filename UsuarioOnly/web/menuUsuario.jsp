@@ -12,6 +12,7 @@ ur_body_back.jpg
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        
         <title>JSP Page</title>
     </head>
     <body style=" color: #000; background-image:url(img3_1.jpg);" >
@@ -21,7 +22,7 @@ ur_body_back.jpg
                     <c:if test="${!empty Obras}">
                         <c:forEach items="${Obras}" var="obra">
                             <article class="post clearfix">
-                                <a href="#" class="thumb pull-left cll">
+                                <a href="#" class="thumb pull-left">
                                     <img class="img-thumbnail" src="${obra.value.getImagen()}" />
                                 </a>
                                 <h2 class="post-title">

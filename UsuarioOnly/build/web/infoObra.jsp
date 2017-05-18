@@ -19,7 +19,7 @@
                 <c:if test="${!empty ObraActual}">
                     <section class="posts col-md-8" style="padding-bottom: 10px">
                         <article class="post clearfix">
-                            <a href="#" class="pull-left cll" style="border-style: solid;">
+                            <a href="#" class="pull-left" style="border-style: solid;">
                                 <img class="img-responsive"  src="${ObraActual.getImagen()}" />
                             </a>
                         </article>

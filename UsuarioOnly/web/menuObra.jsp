@@ -20,7 +20,7 @@
                     Titulo: <input class="form-control " type="text" name="titulo" required><br> </br>
                     Precio: <input class="form-control" type="text" name="precio" required><br> </br>
                     Link imagen:<input class="form-control" type="url" name="url" required><br> </br>
-                    Descripcion:<textarea class="form-control" rows="6" name="descripcion" required="true"></textarea><br> </br>
+                    Descripcion:<textarea class="form-control" rows="6" name="descripcion"></textarea><br> </br>
                     <input class="btn btn-primary form-control" type="submit" value="Publicar" name="Confirmar">
                 </form>
             </div>  

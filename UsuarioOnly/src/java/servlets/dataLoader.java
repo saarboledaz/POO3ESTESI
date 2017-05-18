@@ -95,7 +95,7 @@ public class dataLoader extends HttpServlet {
 
                 loadDataSession.setAttribute("Artistas", artistas);
             }
-            FileReader users = new FileReader("C:\\Users\\Sergio\\Documents\\NetBeansProjects\\UsuarioOnly\\workbooks\\Usuarios.txt");
+            FileReader users = new FileReader("C:\\Users\\ASUS\\Desktop\\Usuarios.txt");
             BufferedReader bf = new BufferedReader(users);
             String user = bf.readLine();
             Artista art;
