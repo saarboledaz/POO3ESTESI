@@ -13,7 +13,11 @@
         <link rel="stylesheet" type="text/css" href="css/styles.css">
         <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
         <link rel="stylesheet" type="text/css" href="css/bootstrap-theme.css">
+        <title>Desvararte</title>
+    </head>    
     <header style="position:static;width:100%;">
+
+
         <nav class="navbar navbar-inverse navbar-static-top" style="background-color:blue" role="navigation">
             <div class="container">
 
@@ -62,6 +66,6 @@
         </nav>
     </header>
 
-</head>
+
 </html>    
 
